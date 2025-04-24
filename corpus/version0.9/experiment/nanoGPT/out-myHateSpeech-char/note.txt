@@ -1,0 +1,1 @@
+Under the out-myHatespeech-char folder, we removed the trained model file output_ckpt.pt (a PyTorch model) due to GitHub's file size limitations.
