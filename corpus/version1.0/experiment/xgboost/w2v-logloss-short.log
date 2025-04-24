@@ -1,0 +1,48 @@
+Error: Line 1014 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 3671 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 5922 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6184 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6584 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+[0]	train-mlogloss:2.02826	test-mlogloss:2.15533
+[1]	train-mlogloss:1.84198	test-mlogloss:2.05816
+[2]	train-mlogloss:1.70000	test-mlogloss:1.98561
+[3]	train-mlogloss:1.58576	test-mlogloss:1.93130
+[4]	train-mlogloss:1.49045	test-mlogloss:1.89027
+[5]	train-mlogloss:1.40904	test-mlogloss:1.85948
+[6]	train-mlogloss:1.33944	test-mlogloss:1.83733
+[7]	train-mlogloss:1.27804	test-mlogloss:1.82008
+[8]	train-mlogloss:1.22450	test-mlogloss:1.80779
+[9]	train-mlogloss:1.17734	test-mlogloss:1.80026
+[10]	train-mlogloss:1.13468	test-mlogloss:1.79612
+[11]	train-mlogloss:1.09715	test-mlogloss:1.79591
+[12]	train-mlogloss:1.06223	test-mlogloss:1.79842
+[13]	train-mlogloss:1.03074	test-mlogloss:1.80256
+[14]	train-mlogloss:1.00232	test-mlogloss:1.80940
+[15]	train-mlogloss:0.97654	test-mlogloss:1.81752
+[16]	train-mlogloss:0.95301	test-mlogloss:1.82772
+[17]	train-mlogloss:0.93057	test-mlogloss:1.83968
+[18]	train-mlogloss:0.91021	test-mlogloss:1.85252
+[19]	train-mlogloss:0.89171	test-mlogloss:1.86710
+[20]	train-mlogloss:0.87544	test-mlogloss:1.88240
+[21]	train-mlogloss:0.85953	test-mlogloss:1.89892
+[22]	train-mlogloss:0.84489	test-mlogloss:1.91610
+[23]	train-mlogloss:0.83026	test-mlogloss:1.93390
+[24]	train-mlogloss:0.81768	test-mlogloss:1.95288
+[25]	train-mlogloss:0.80590	test-mlogloss:1.97217
+[26]	train-mlogloss:0.79502	test-mlogloss:1.99109
+[27]	train-mlogloss:0.78456	test-mlogloss:2.01072
+[28]	train-mlogloss:0.77359	test-mlogloss:2.03119
+[29]	train-mlogloss:0.76362	test-mlogloss:2.05097
+Log Loss: 2.0509737588539676
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9

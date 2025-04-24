@@ -1,0 +1,135 @@
+[0]	train-mlogloss:2.12946	test-mlogloss:2.17367
+[1]	train-mlogloss:2.00021	test-mlogloss:2.08073
+[2]	train-mlogloss:1.89729	test-mlogloss:2.01104
+[3]	train-mlogloss:1.81263	test-mlogloss:1.95663
+[4]	train-mlogloss:1.74133	test-mlogloss:1.91332
+F1 Score: 0.40082636302582586
+Precision: 0.3543703647416413
+Recall: 0.541
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+[0]	train-mlogloss:2.13212	test-mlogloss:2.17589
+[1]	train-mlogloss:2.00247	test-mlogloss:2.08521
+[2]	train-mlogloss:1.89629	test-mlogloss:2.01647
+[3]	train-mlogloss:1.80896	test-mlogloss:1.96403
+[4]	train-mlogloss:1.73342	test-mlogloss:1.92057
+F1 Score: 0.38937196569484755
+Precision: 0.6736459126539753
+Recall: 0.531
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+[0]	train-mlogloss:2.12986	test-mlogloss:2.17020
+[1]	train-mlogloss:2.00038	test-mlogloss:2.07867
+[2]	train-mlogloss:1.89502	test-mlogloss:2.00890
+[3]	train-mlogloss:1.80787	test-mlogloss:1.95525
+[4]	train-mlogloss:1.73270	test-mlogloss:1.91043
+F1 Score: 0.3969942482789251
+Precision: 0.5646141456582634
+Recall: 0.538
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+Error: Line 1014 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 3671 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 5922 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6184 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6584 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+[0]	train-mlogloss:2.09079	test-mlogloss:2.15884
+[1]	train-mlogloss:1.94046	test-mlogloss:2.05952
+[2]	train-mlogloss:1.82384	test-mlogloss:1.98623
+[3]	train-mlogloss:1.72935	test-mlogloss:1.92968
+[4]	train-mlogloss:1.65100	test-mlogloss:1.88545
+F1 Score: 0.4412957516022528
+Precision: 0.6042834620576556
+Recall: 0.54
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+Error: Line 1014 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 3671 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 5922 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6184 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6584 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+[0]	train-mlogloss:2.02779	test-mlogloss:2.15351
+[1]	train-mlogloss:1.84104	test-mlogloss:2.05598
+[2]	train-mlogloss:1.69882	test-mlogloss:1.98478
+[3]	train-mlogloss:1.58378	test-mlogloss:1.93085
+[4]	train-mlogloss:1.48841	test-mlogloss:1.89088
+F1 Score: 0.4414807121661721
+Precision: 0.6844130162703379
+Recall: 0.542
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+Error: Line 1014 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 3671 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 5922 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6184 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6584 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+[0]	train-mlogloss:2.03602	test-mlogloss:2.15003
+[1]	train-mlogloss:1.85498	test-mlogloss:2.04697
+[2]	train-mlogloss:1.71728	test-mlogloss:1.97403
+[3]	train-mlogloss:1.60647	test-mlogloss:1.91917
+[4]	train-mlogloss:1.51397	test-mlogloss:1.87692
+F1 Score: 0.44245727534987955
+Precision: 0.7401688262657588
+Recall: 0.55
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9

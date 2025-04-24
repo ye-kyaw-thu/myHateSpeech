@@ -1,0 +1,330 @@
+[0]	train-mlogloss:2.12946	test-mlogloss:2.17367
+[1]	train-mlogloss:2.00021	test-mlogloss:2.08073
+[2]	train-mlogloss:1.89729	test-mlogloss:2.01104
+[3]	train-mlogloss:1.81263	test-mlogloss:1.95663
+[4]	train-mlogloss:1.74133	test-mlogloss:1.91332
+[5]	train-mlogloss:1.67966	test-mlogloss:1.87827
+[6]	train-mlogloss:1.62641	test-mlogloss:1.85027
+[7]	train-mlogloss:1.57942	test-mlogloss:1.82738
+[8]	train-mlogloss:1.53793	test-mlogloss:1.80942
+[9]	train-mlogloss:1.50116	test-mlogloss:1.79569
+F1 Score: 0.4025752666212844
+Precision: 0.36034021739130434
+Recall: 0.535
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+[0]	train-mlogloss:2.13061	test-mlogloss:2.17293
+[1]	train-mlogloss:2.00051	test-mlogloss:2.08288
+[2]	train-mlogloss:1.89458	test-mlogloss:2.01378
+[3]	train-mlogloss:1.80641	test-mlogloss:1.96018
+[4]	train-mlogloss:1.72989	test-mlogloss:1.91860
+[5]	train-mlogloss:1.66305	test-mlogloss:1.88485
+[6]	train-mlogloss:1.60415	test-mlogloss:1.85755
+[7]	train-mlogloss:1.55276	test-mlogloss:1.83528
+[8]	train-mlogloss:1.50647	test-mlogloss:1.81602
+[9]	train-mlogloss:1.46502	test-mlogloss:1.80234
+F1 Score: 0.39612066717707073
+Precision: 0.678390729932843
+Recall: 0.536
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+[0]	train-mlogloss:2.13138	test-mlogloss:2.17503
+[1]	train-mlogloss:2.00141	test-mlogloss:2.08249
+[2]	train-mlogloss:1.89588	test-mlogloss:2.01340
+[3]	train-mlogloss:1.80833	test-mlogloss:1.95885
+[4]	train-mlogloss:1.73416	test-mlogloss:1.91478
+[5]	train-mlogloss:1.66797	test-mlogloss:1.87993
+[6]	train-mlogloss:1.60969	test-mlogloss:1.85144
+[7]	train-mlogloss:1.55865	test-mlogloss:1.82859
+[8]	train-mlogloss:1.51228	test-mlogloss:1.81077
+[9]	train-mlogloss:1.46995	test-mlogloss:1.79469
+F1 Score: 0.39803761292291717
+Precision: 0.6780144099378881
+Recall: 0.544
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+Error: Line 1014 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 3671 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 5922 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6184 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6584 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+[0]	train-mlogloss:2.09079	test-mlogloss:2.15884
+[1]	train-mlogloss:1.94046	test-mlogloss:2.05952
+[2]	train-mlogloss:1.82384	test-mlogloss:1.98623
+[3]	train-mlogloss:1.72935	test-mlogloss:1.92968
+[4]	train-mlogloss:1.65100	test-mlogloss:1.88545
+[5]	train-mlogloss:1.58398	test-mlogloss:1.85022
+[6]	train-mlogloss:1.52700	test-mlogloss:1.82211
+[7]	train-mlogloss:1.47666	test-mlogloss:1.80013
+[8]	train-mlogloss:1.43294	test-mlogloss:1.78309
+[9]	train-mlogloss:1.39452	test-mlogloss:1.76981
+F1 Score: 0.4398949340807641
+Precision: 0.5775848504615627
+Recall: 0.538
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+Error: Line 1014 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 3671 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 5922 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6184 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6584 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+[0]	train-mlogloss:2.02923	test-mlogloss:2.15253
+[1]	train-mlogloss:1.84366	test-mlogloss:2.05165
+[2]	train-mlogloss:1.70247	test-mlogloss:1.97892
+[3]	train-mlogloss:1.58809	test-mlogloss:1.92616
+[4]	train-mlogloss:1.49327	test-mlogloss:1.88560
+[5]	train-mlogloss:1.41235	test-mlogloss:1.85466
+[6]	train-mlogloss:1.34313	test-mlogloss:1.83138
+[7]	train-mlogloss:1.28204	test-mlogloss:1.81534
+[8]	train-mlogloss:1.22850	test-mlogloss:1.80325
+[9]	train-mlogloss:1.18082	test-mlogloss:1.79616
+F1 Score: 0.4414807121661721
+Precision: 0.7214130162703379
+Recall: 0.542
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+Error: Line 1014 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 3671 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 5922 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6184 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6584 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+[0]	train-mlogloss:2.03732	test-mlogloss:2.14945
+[1]	train-mlogloss:1.85669	test-mlogloss:2.04687
+[2]	train-mlogloss:1.71937	test-mlogloss:1.97364
+[3]	train-mlogloss:1.60779	test-mlogloss:1.91861
+[4]	train-mlogloss:1.51607	test-mlogloss:1.87664
+[5]	train-mlogloss:1.43822	test-mlogloss:1.84475
+[6]	train-mlogloss:1.37163	test-mlogloss:1.82108
+[7]	train-mlogloss:1.31342	test-mlogloss:1.80246
+[8]	train-mlogloss:1.26199	test-mlogloss:1.79003
+[9]	train-mlogloss:1.21716	test-mlogloss:1.78189
+F1 Score: 0.44299778129392114
+Precision: 0.7406348894348895
+Recall: 0.551
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+[0]	train-mlogloss:1.82156	test-mlogloss:1.95389
+[1]	train-mlogloss:1.61823	test-mlogloss:1.84050
+[2]	train-mlogloss:1.48913	test-mlogloss:1.78497
+[3]	train-mlogloss:1.40066	test-mlogloss:1.76264
+[4]	train-mlogloss:1.33550	test-mlogloss:1.75496
+[5]	train-mlogloss:1.28569	test-mlogloss:1.75967
+[6]	train-mlogloss:1.24587	test-mlogloss:1.77318
+[7]	train-mlogloss:1.21524	test-mlogloss:1.78714
+[8]	train-mlogloss:1.18832	test-mlogloss:1.80582
+[9]	train-mlogloss:1.16586	test-mlogloss:1.82397
+F1 Score: 0.39911079779481656
+Precision: 0.3293518317011244
+Recall: 0.531
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+[0]	train-mlogloss:1.81953	test-mlogloss:1.96265
+[1]	train-mlogloss:1.59823	test-mlogloss:1.84746
+[2]	train-mlogloss:1.45229	test-mlogloss:1.79200
+[3]	train-mlogloss:1.34771	test-mlogloss:1.77262
+[4]	train-mlogloss:1.26659	test-mlogloss:1.76673
+[5]	train-mlogloss:1.20294	test-mlogloss:1.77499
+[6]	train-mlogloss:1.14765	test-mlogloss:1.79031
+[7]	train-mlogloss:1.09926	test-mlogloss:1.80424
+[8]	train-mlogloss:1.06250	test-mlogloss:1.82337
+[9]	train-mlogloss:1.02648	test-mlogloss:1.84402
+F1 Score: 0.3950963823009053
+Precision: 0.5897403722721437
+Recall: 0.522
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+[0]	train-mlogloss:1.82314	test-mlogloss:1.95080
+[1]	train-mlogloss:1.60592	test-mlogloss:1.83646
+[2]	train-mlogloss:1.46126	test-mlogloss:1.78244
+[3]	train-mlogloss:1.35502	test-mlogloss:1.76046
+[4]	train-mlogloss:1.27432	test-mlogloss:1.75526
+[5]	train-mlogloss:1.20793	test-mlogloss:1.75985
+[6]	train-mlogloss:1.15210	test-mlogloss:1.76948
+[7]	train-mlogloss:1.10414	test-mlogloss:1.78685
+[8]	train-mlogloss:1.06689	test-mlogloss:1.80287
+[9]	train-mlogloss:1.02929	test-mlogloss:1.82007
+F1 Score: 0.39425890688259113
+Precision: 0.5544793140407289
+Recall: 0.528
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+Error: Line 1014 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 3671 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 5922 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6184 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6584 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+[0]	train-mlogloss:1.71758	test-mlogloss:1.92185
+[1]	train-mlogloss:1.50149	test-mlogloss:1.81112
+[2]	train-mlogloss:1.37225	test-mlogloss:1.76191
+[3]	train-mlogloss:1.28391	test-mlogloss:1.74446
+[4]	train-mlogloss:1.22148	test-mlogloss:1.74398
+[5]	train-mlogloss:1.17573	test-mlogloss:1.75140
+[6]	train-mlogloss:1.14074	test-mlogloss:1.76668
+[7]	train-mlogloss:1.11404	test-mlogloss:1.78563
+[8]	train-mlogloss:1.09233	test-mlogloss:1.80607
+[9]	train-mlogloss:1.07441	test-mlogloss:1.82895
+F1 Score: 0.4418083743437946
+Precision: 0.5805824371976452
+Recall: 0.538
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+Error: Line 1014 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 3671 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 5922 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6184 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6584 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+[0]	train-mlogloss:1.54734	test-mlogloss:1.92270
+[1]	train-mlogloss:1.29816	test-mlogloss:1.83385
+[2]	train-mlogloss:1.13983	test-mlogloss:1.80421
+[3]	train-mlogloss:1.03094	test-mlogloss:1.81219
+[4]	train-mlogloss:0.95235	test-mlogloss:1.83729
+[5]	train-mlogloss:0.89106	test-mlogloss:1.87931
+[6]	train-mlogloss:0.84638	test-mlogloss:1.93052
+[7]	train-mlogloss:0.80799	test-mlogloss:1.98773
+[8]	train-mlogloss:0.77718	test-mlogloss:2.04543
+[9]	train-mlogloss:0.74891	test-mlogloss:2.11075
+F1 Score: 0.44299474079639367
+Precision: 0.6249987212276215
+Recall: 0.537
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
+Error: Line 1014 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 3671 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 5922 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6184 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6584 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+[0]	train-mlogloss:1.57014	test-mlogloss:1.91016
+[1]	train-mlogloss:1.33085	test-mlogloss:1.81332
+[2]	train-mlogloss:1.18178	test-mlogloss:1.78082
+[3]	train-mlogloss:1.07990	test-mlogloss:1.78336
+[4]	train-mlogloss:1.00481	test-mlogloss:1.80612
+[5]	train-mlogloss:0.94802	test-mlogloss:1.84106
+[6]	train-mlogloss:0.90285	test-mlogloss:1.88466
+[7]	train-mlogloss:0.86922	test-mlogloss:1.93474
+[8]	train-mlogloss:0.84112	test-mlogloss:1.99122
+[9]	train-mlogloss:0.81902	test-mlogloss:2.04780
+F1 Score: 0.4426204640800171
+Precision: 0.7298552152495181
+Recall: 0.549
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9

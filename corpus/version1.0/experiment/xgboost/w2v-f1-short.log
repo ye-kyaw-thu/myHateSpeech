@@ -1,0 +1,50 @@
+Error: Line 1014 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 3671 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 5922 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6184 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+Error: Line 6584 in the file './short-data/strain.txt' does not contain both label and text. Skipping...
+[0]	train-mlogloss:2.02865	test-mlogloss:2.15080
+[1]	train-mlogloss:1.84207	test-mlogloss:2.05299
+[2]	train-mlogloss:1.69934	test-mlogloss:1.98063
+[3]	train-mlogloss:1.58361	test-mlogloss:1.92485
+[4]	train-mlogloss:1.48858	test-mlogloss:1.88377
+[5]	train-mlogloss:1.40704	test-mlogloss:1.85355
+[6]	train-mlogloss:1.33784	test-mlogloss:1.83007
+[7]	train-mlogloss:1.27705	test-mlogloss:1.81439
+[8]	train-mlogloss:1.22310	test-mlogloss:1.80288
+[9]	train-mlogloss:1.17594	test-mlogloss:1.79578
+[10]	train-mlogloss:1.13326	test-mlogloss:1.79206
+[11]	train-mlogloss:1.09490	test-mlogloss:1.79315
+[12]	train-mlogloss:1.06004	test-mlogloss:1.79674
+[13]	train-mlogloss:1.02924	test-mlogloss:1.80275
+[14]	train-mlogloss:1.00139	test-mlogloss:1.81052
+[15]	train-mlogloss:0.97536	test-mlogloss:1.81999
+[16]	train-mlogloss:0.95192	test-mlogloss:1.83052
+[17]	train-mlogloss:0.92998	test-mlogloss:1.84405
+[18]	train-mlogloss:0.90946	test-mlogloss:1.85687
+[19]	train-mlogloss:0.89121	test-mlogloss:1.87180
+[20]	train-mlogloss:0.87460	test-mlogloss:1.88647
+[21]	train-mlogloss:0.85817	test-mlogloss:1.90327
+[22]	train-mlogloss:0.84342	test-mlogloss:1.92075
+[23]	train-mlogloss:0.82989	test-mlogloss:1.93946
+[24]	train-mlogloss:0.81703	test-mlogloss:1.95795
+[25]	train-mlogloss:0.80485	test-mlogloss:1.97769
+[26]	train-mlogloss:0.79203	test-mlogloss:1.99760
+[27]	train-mlogloss:0.78170	test-mlogloss:2.01754
+[28]	train-mlogloss:0.77112	test-mlogloss:2.03730
+[29]	train-mlogloss:0.76110	test-mlogloss:2.05817
+F1 Score: 0.4423163997596068
+Precision: 0.6982201247800353
+Recall: 0.543
+
+Numeric Label - Original Label
+ab - 0
+no - 1
+bo - 2
+re - 3
+po - 4
+le - 5
+ed - 6
+se - 7
+ra - 8
+BLANK - 9
