@@ -89,7 +89,6 @@ We manually collected hate speech sentences from **Facebook** (the most widely u
 ### Sentence-Level Annotation  
 Each sentence receives **one tab-separated label** based on its overall meaning.  
 
-
 ### Examples:
 
 ```
@@ -114,7 +113,7 @@ We manually collected hate speech sentences from **Facebook** between **January 
 - **Structure:** `hate-speech_tagged_Myanmar_sentence<TAB>sentence_level_hatespeech_tag`  
 
 ### Version 1.0  
-Version 1.0 is a manually corrected version of Version 0.9 with annotation errors fixed. For detailed changes, please refer to [this file]().  
+Version 1.0 is a manually corrected version of Version 0.9 with annotation errors fixed. For detailed changes, please refer to [this file](https://github.com/ye-kyaw-thu/myHateSpeech/blob/main/corpus/version1.0/diff_btw_ws_jcsse24.txt).  
 
 [`myHateSpeech_ver1.0.txt`](https://github.com/ye-kyaw-thu/myHateSpeech/blob/main/corpus/version1.0/myHateSpeech_ver1.0.txt)  
 
