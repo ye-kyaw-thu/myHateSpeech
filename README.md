@@ -20,8 +20,8 @@ We defined **9 distinct classes** to reflect a comprehensive approach to underst
 **1. Abusive Hate Speech (ab)**  
 Sentences that use abusive language, criticize minorities, promote hate speech/crimes, or misrepresent facts while blaming minority groups.  
 
-In Myanmar: မကောင်းဆိုးဝါးအကောင် လာဘ်ပိတ် တယ်  
-In English: "You're a monster who brings bad luck."  
+*In Myanmar:* မကောင်းဆိုးဝါးအကောင် လာဘ်ပိတ် တယ်  
+*In English:* "You're a monster who brings bad luck."  
 
 **2. Religious Hate Speech (re)**  
 Sentences that include disrespectful language, unfair generalizations, or offensive remarks about a religion or its followers.  
