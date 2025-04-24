@@ -89,11 +89,6 @@ We manually collected hate speech sentences from **Facebook** (the most widely u
 ### Sentence-Level Annotation  
 Each sentence receives **one tab-separated label** based on its overall meaning.  
 
-### Technical Details  
-- **Encoding:** UTF-8  
-- **Format:** Plain text  
-- **Size:** 10,140 sentences  
-- **Structure:** hate-speech_tagged_Myanmar_sentence<TAB>sentence_level_hatespeech_tag  
 
 ### Examples:
 
@@ -107,12 +102,27 @@ Each sentence receives **one tab-separated label** based on its overall meaning.
 
 ## Version Information of the myHateSpeech Corpus
 
+We manually collected hate speech sentences from **Facebook** between **January 2023 and August 2023**.
+
 ### Version 0.9  
 [`myHateSpeech_ver0.9.txt`](https://github.com/ye-kyaw-thu/myHateSpeech/blob/main/corpus/version0.9/myHateSpeech_ver0.9.txt)  
 
+**Technical Details:**  
+- **Encoding:** UTF-8  
+- **Format:** Plain text  
+- **Size:** 10,140 sentences  
+- **Structure:** `hate-speech_tagged_Myanmar_sentence<TAB>sentence_level_hatespeech_tag`  
+
 ### Version 1.0  
+Version 1.0 is a manually corrected version of Version 0.9 with annotation errors fixed. For detailed changes, please refer to [this file]().  
+
 [`myHateSpeech_ver1.0.txt`](https://github.com/ye-kyaw-thu/myHateSpeech/blob/main/corpus/version1.0/myHateSpeech_ver1.0.txt)  
 
+**Technical Details:**  
+- **Encoding:** UTF-8  
+- **Format:** Plain text  
+- **Size:** 10,140 sentences  
+- **Structure:** `hate-speech_tagged_Myanmar_sentence<TAB>sentence_level_hatespeech_tag`
 
 ## License
 
