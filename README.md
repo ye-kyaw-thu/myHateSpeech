@@ -132,3 +132,9 @@ Version 1.0 is a manually corrected version of Version 0.9 with annotation error
 Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License  
 [Details Info of License](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
+## Citation
+
+If you use the **myHateSpeech (Version 0.9 or 1.0)** corpus in your research, we would appreciate it if you cite the following reference:  
+
+Nang Aeindray Kyaw, Ye Kyaw Thu, Hutchatai Chanlekha, Thazin Myint Oo, Okumura Manabu and Thepchai Supnithi, "Enhancing Hate Speech Classification in Myanmar Language Through Lexicon-Based Filtering", the 21st International Joint Conference on Computer Science and Software Engineering (JCSSE 2024), June 19-22, Phuket, Thailand, pp. 325-332 [Paper-Link](https://ieeexplore.ieee.org/document/10613636)
+
