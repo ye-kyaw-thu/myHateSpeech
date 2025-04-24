@@ -1,0 +1,2 @@
+We presented our work-in-progress research on myHateSpeech (version 0.9) at the 5th NLP/AI R&D Workshop, held on 27 November 2023 at the Sukosol Bangkok Hotel. 
+The workshop was co-located with iSAI-NLP-AIoT 2023: The 18th International Joint Symposium on Artificial Intelligence and Natural Language Processing.
