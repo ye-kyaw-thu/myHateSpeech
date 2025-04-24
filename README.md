@@ -101,14 +101,13 @@ Each sentence receives **one tab-separated label** based on its overall meaning.
 
 ## Version Information of the myHateSpeech Corpus
 
-We manually collected hate speech sentences from **Facebook** between **January 2023 and August 2023**.
-
+We manually collected hate speech sentences from **Facebook** between **January 2023 and August 2023**, preserving all original content including emojis.  
 ### Version 0.9  
 [`myHateSpeech_ver0.9.txt`](https://github.com/ye-kyaw-thu/myHateSpeech/blob/main/corpus/version0.9/myHateSpeech_ver0.9.txt)  
 
 **Technical Details:**  
 - **Encoding:** UTF-8  
-- **Format:** Plain text  
+- **Format:** Plain text (with original emojis preserved)
 - **Size:** 10,140 sentences  
 - **Structure:** `hate-speech_tagged_Myanmar_sentence<TAB>sentence_level_hatespeech_tag`  
 
@@ -119,7 +118,7 @@ Version 1.0 is a manually corrected version of Version 0.9 with annotation error
 
 **Technical Details:**  
 - **Encoding:** UTF-8  
-- **Format:** Plain text  
+- **Format:** Plain text (with original emojis preserved) 
 - **Size:** 10,140 sentences  
 - **Structure:** `hate-speech_tagged_Myanmar_sentence<TAB>sentence_level_hatespeech_tag`
 
