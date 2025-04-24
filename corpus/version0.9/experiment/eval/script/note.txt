@@ -1,0 +1,28 @@
+
+# Hatespeech Tag Distributions on Sentence Level
+
+Changed filenames and saved as follows:  
+
+(base) ye@lst-gpu-3090:~/exp/myHatespeech/eval/script/sentence$ ls
+Test-1  Test-2  Test-3  Test-4  Test-5
+
+Call helpscreen with --help argument:
+ 
+(base) ye@lst-gpu-3090:~/exp/myHatespeech/eval/script$ python ./compare_sentence_tag_distributions.py --help
+usage: compare_sentence_tag_distributions.py [-h] -p PATH -g GRAPH_FILENAME
+
+Compare Hate Speech Tag Distributions Among Files.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -p PATH, --path PATH  Path to the folder containing the files.
+  -g GRAPH_FILENAME, --graph_filename GRAPH_FILENAME
+                        Output graph filename.
+
+Draw a graph for the sentence wise tagging:  
+
+(base) ye@lst-gpu-3090:~/exp/myHatespeech/eval/script$ python ./compare_sentence_tag_distributions.py -p ./sentence/ -g ./sentence_compare.png
+
+## Hatespeech Tag Distributions on Word or Phrase Level
+
+(base) ye@lst-gpu-3090:~/exp/myHatespeech/eval/script$ python ./compare_word_tag_distributions.py -p ./word_phrase/ -g word_compare.png
