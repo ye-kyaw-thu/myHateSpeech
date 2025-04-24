@@ -71,6 +71,49 @@ Neutral sentences without hateful or discriminatory content.
 *In Myanmar:* အပေါ် က စာကြောင်း တွေ က ဥပမာ ပြ ဖို့ ပဲ သုံး သင့် ပါ တယ်  
 *In English:* "The above sentences should only be used as examples."  
 
+## Corpus Building, Annotation, and Format
+
+We manually collected hate speech sentences from **Facebook** (the most widely used social platform in Myanmar). The corpus is annotated at both **word/phrase-level** and **sentence-level**:
+
+### Word/Phrase-Level Annotation  
+- If a word/phrase constitutes hate speech, we annotate it with a slash (`/`) followed by its hate speech class.  
+  **Example (Myanmar):** မအေလိုး`/ab`  
+  **English:** "motherfucker`/ab`"  
+- Phrases composed of multiple words (without spaces) are annotated as a single unit.  
+  **Example (Myanmar):** ကျက်သရေမရှိ`/ab`  
+  **English:** "lacking grace`/ab`"  
+- For words/phrases with multiple hate speech classes, we use pipe-separated tags (`|`).  
+  **Example (Myanmar):** စောက်ခွက်`/ab|bo`  
+  **English:** "fucking face`/ab|bo`"  
+
+### Sentence-Level Annotation  
+Each sentence receives **one tab-separated label** based on its overall meaning.  
+
+### Technical Details  
+- **Encoding:** UTF-8  
+- **Format:** Plain text  
+- **Size:** 10,140 sentences  
+- **Structure:** hate-speech_tagged_Myanmar_sentence<TAB>sentence_level_hatespeech_tag  
+
+### Examples:
+
+```
+ခွေးရူးကောင်းစားတစ်မွန်းတည့်/ab ab
+အသံ လေး ရော ရုပ် လေး ရော က ဆဲ ချင် စရာ လေး နော် ဖော်လော်မော်/ab လေး 🤧🤧 bo
+မေး ပါ ဦး မယ် နင် တို့ အကယ်ဒမီ က ဘယ်သူ တွေ ကို ပေး မှာ လဲ no
+ဦးနှောက်ကဂုတ်ကပ်/ed နေ တော့ ဘယ် နားလည် မ လဲ $ကောင်မ/ab ရဲ့ ed
+ဥာဏ်ရည်နိမ့်/ed|ab ဖော်လော်မော်မ/ab အောက်တန်းစား/ab က အောက်တန်းစား/ab ပဲ အဆင့် တက် မ လာ နိုင် ဘူး ab
+```
+
+## Version Information of the myHateSpeech Corpus
+
+### Version 0.9  
+[`myHateSpeech_ver0.9.txt`](https://github.com/ye-kyaw-thu/myHateSpeech/blob/main/corpus/version0.9/myHateSpeech_ver0.9.txt)  
+
+### Version 1.0  
+[`myHateSpeech_ver1.0.txt`](https://github.com/ye-kyaw-thu/myHateSpeech/blob/main/corpus/version1.0/myHateSpeech_ver1.0.txt)  
+
+
 ## License
 
 Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License  
