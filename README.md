@@ -175,8 +175,7 @@ Nang Aeindray Kyaw, Ye Kyaw Thu, Hutchatai Chanlekha, Thazin Myint Oo, Okumura M
 - We will continue expanding the myHateSpeech corpus  
 - We plan to conduct:  
   - Automatic hate speech generation experiments   
-  - Multi-class classification experiments  
-  using the extended corpus  
+  - Multi-class classification experiments using the extended corpus  
 
 ## References
 
