@@ -114,7 +114,8 @@ We manually collected hate speech sentences from **Facebook** between **January 
 - **Encoding:** UTF-8  
 - **Format:** Plain text (with original emojis preserved)
 - **Size:** 10,140 sentences  
-- **Structure:** `hate-speech_tagged_Myanmar_sentence<TAB>sentence_level_hatespeech_tag`  
+- **Structure:** `hate-speech_tagged_Myanmar_sentence<TAB>sentence_level_hatespeech_tag`
+- **Release Date:** 25 April 2025
 
 ### Version 1.0  
 Version 1.0 is a manually corrected version of Version 0.9 with annotation errors fixed. For detailed changes, please refer to [this file](https://github.com/ye-kyaw-thu/myHateSpeech/blob/main/corpus/version1.0/diff_ver0.9_and_ver1.0.txt).  
@@ -126,6 +127,7 @@ Version 1.0 is a manually corrected version of Version 0.9 with annotation error
 - **Format:** Plain text (with original emojis preserved) 
 - **Size:** 10,140 sentences  
 - **Structure:** `hate-speech_tagged_Myanmar_sentence<TAB>sentence_level_hatespeech_tag`
+- **Release Date:** 25 April 2025
 
 ## License
 
