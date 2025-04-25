@@ -147,16 +147,16 @@ Our work-in-progress results were presented at:
 
 ---
 
-### Hate Speech Classification via Lexicon-Based Filtering  
+## Hate Speech Multi-Class Classification via Lexicon-Based Filtering
 
 With **myHateSpeech v1.0**, we propose:  
 - Building a **hate speech dictionary** from annotated data  
-- Using **fastText models** to compare:  
+- Using **fastText models** for multi-class classification, comparing:  
   - Classifiers trained on unfiltered long sentences  
   - Classifiers trained on lexicon-filtered short sentences  
 
 **Key Result:**  
-✅ Achieved **0.771 accuracy** through lexicon-enhanced filtering  
+✅ Achieved **0.771 accuracy** in multi-class classification through lexicon-enhanced filtering  
 
 📄 *Published at:*  
 **JCSSE 2024** (June 19–22, 2024, Phuket, Thailand)  
@@ -173,7 +173,10 @@ Nang Aeindray Kyaw, Ye Kyaw Thu, Hutchatai Chanlekha, Thazin Myint Oo, Okumura M
 ## To Do
 
 - We will continue expanding the myHateSpeech corpus  
-- We plan to conduct automatic hate speech generation and classification experiments with the extended corpus  
+- We plan to conduct:  
+  - Automatic hate speech generation experiments   
+  - Multi-class classification experiments  
+  using the extended corpus  
 
 ## References
 
