@@ -168,7 +168,12 @@ With **myHateSpeech v1.0**, we propose:
 
 If you use the **myHateSpeech (Version 0.9 or 1.0)** corpus in your research, we would appreciate it if you cite the following reference:  
 
-Nang Aeindray Kyaw, Ye Kyaw Thu, Hutchatai Chanlekha, Thazin Myint Oo, Okumura Manabu and Thepchai Supnithi, "Enhancing Hate Speech Classification in Myanmar Language Through Lexicon-Based Filtering", the 21st International Joint Conference on Computer Science and Software Engineering (JCSSE 2024), June 19-22, Phuket, Thailand, pp. 325-332 [[Paper-Link]](https://ieeexplore.ieee.org/document/10613636)
+Nang Aeindray Kyaw, Ye Kyaw Thu, Hutchatai Chanlekha, Thazin Myint Oo, Okumura Manabu and Thepchai Supnithi, "Enhancing Hate Speech Classification in Myanmar Language Through Lexicon-Based Filtering", the 21st International Joint Conference on Computer Science and Software Engineering (JCSSE 2024), June 19-22, Phuket, Thailand, pp. 325-332 [[Paper-Link]](https://ieeexplore.ieee.org/document/10613636)  
+
+## To Do
+
+- We will continue expanding the myHateSpeech corpus  
+- We plan to conduct automatic hate speech generation and classification experiments with the extended corpus  
 
 ## References
 
