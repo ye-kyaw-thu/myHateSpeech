@@ -181,4 +181,5 @@ Nang Aeindray Kyaw, Ye Kyaw Thu, Hutchatai Chanlekha, Thazin Myint Oo, Okumura M
 
 [1] nanoGPT: [https://github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)   
 [2] Text Classification with fastText: [https://fasttext.cc/docs/en/supervised-tutorial.html](https://fasttext.cc/docs/en/supervised-tutorial.html)  
+[3] XGBoost Documentation: [https://xgboost.readthedocs.io/en/stable/index.html](https://xgboost.readthedocs.io/en/stable/index.html)  
 
