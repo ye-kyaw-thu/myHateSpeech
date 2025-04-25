@@ -132,6 +132,38 @@ Version 1.0 is a manually corrected version of Version 0.9 with annotation error
 Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License  
 [Details Info of License](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 
+## Experiments
+
+### Hate Speech Generation Experiment  
+
+The lack of publicly available hate speech corpora for Myanmar (a low-resource language) presents significant challenges. Using the developing myHateSpeech corpus (v0.9), we conducted **automatic hate speech generation experiments**.  
+
+Our work-in-progress results were presented at:  
+📌 **5th NLP/AI R&D Workshop** (27 November 2023)  
+📍 Co-located with iSAI-NLP-AIoT 2023, Thailand  
+
+🔍 *Explore the experiment:*  
+[`Experiment with myHateSpeech (version 0.9)`](https://github.com/ye-kyaw-thu/myHateSpeech/tree/main/corpus/version0.9/experiment)  
+
+---
+
+### Hate Speech Classification via Lexicon-Based Filtering  
+
+With **myHateSpeech v1.0**, we propose:  
+- Building a **hate speech dictionary** from annotated data  
+- Using **fastText models** to compare:  
+  - Classifiers trained on unfiltered long sentences  
+  - Classifiers trained on lexicon-filtered short sentences  
+
+**Key Result:**  
+✅ Achieved **0.771 accuracy** through lexicon-enhanced filtering  
+
+📄 *Published at:*  
+**JCSSE 2024** (June 19–22, 2024, Phuket, Thailand)  
+
+🔍 *Explore the experiment:*  
+[`Experiment with myHateSpeech (version 1.0)`](https://github.com/ye-kyaw-thu/myHateSpeech/tree/main/corpus/version1.0/experiment)  
+
 ## Citation
 
 If you use the **myHateSpeech (Version 0.9 or 1.0)** corpus in your research, we would appreciate it if you cite the following reference:  
